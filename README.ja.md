@@ -4,14 +4,6 @@
 
 　Zola 0.14.0 をビルドした。
 
-# デモ
-
-![]()
-
-# 特徴
-
-* セールスポイント
-
 # 開発環境
 
 * <time datetime="2021-07-30T10:31:09+0900">2021-07-30</time>
@@ -36,10 +28,6 @@ git clone https://github.com/ytyaru/Shell.SSG.Zola.Build.20210730103123
 cd Shell.SSG.Zola.Build.20210730103123/src
 ./run.sh
 ```
-
-# 注意
-
-* 注意点など
 
 # 著者
 
